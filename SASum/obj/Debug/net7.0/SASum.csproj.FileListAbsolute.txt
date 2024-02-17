@@ -1,0 +1,14 @@
+C:\Users\nilfo\OneDrive\[OO]\[OO] GitHub\HackerRank\SASum\bin\Debug\net7.0\SASum.exe
+C:\Users\nilfo\OneDrive\[OO]\[OO] GitHub\HackerRank\SASum\bin\Debug\net7.0\SASum.deps.json
+C:\Users\nilfo\OneDrive\[OO]\[OO] GitHub\HackerRank\SASum\bin\Debug\net7.0\SASum.runtimeconfig.json
+C:\Users\nilfo\OneDrive\[OO]\[OO] GitHub\HackerRank\SASum\bin\Debug\net7.0\SASum.dll
+C:\Users\nilfo\OneDrive\[OO]\[OO] GitHub\HackerRank\SASum\bin\Debug\net7.0\SASum.pdb
+C:\Users\nilfo\OneDrive\[OO]\[OO] GitHub\HackerRank\SASum\obj\Debug\net7.0\SASum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nilfo\OneDrive\[OO]\[OO] GitHub\HackerRank\SASum\obj\Debug\net7.0\SASum.AssemblyInfoInputs.cache
+C:\Users\nilfo\OneDrive\[OO]\[OO] GitHub\HackerRank\SASum\obj\Debug\net7.0\SASum.AssemblyInfo.cs
+C:\Users\nilfo\OneDrive\[OO]\[OO] GitHub\HackerRank\SASum\obj\Debug\net7.0\SASum.csproj.CoreCompileInputs.cache
+C:\Users\nilfo\OneDrive\[OO]\[OO] GitHub\HackerRank\SASum\obj\Debug\net7.0\SASum.dll
+C:\Users\nilfo\OneDrive\[OO]\[OO] GitHub\HackerRank\SASum\obj\Debug\net7.0\refint\SASum.dll
+C:\Users\nilfo\OneDrive\[OO]\[OO] GitHub\HackerRank\SASum\obj\Debug\net7.0\SASum.pdb
+C:\Users\nilfo\OneDrive\[OO]\[OO] GitHub\HackerRank\SASum\obj\Debug\net7.0\SASum.genruntimeconfig.cache
+C:\Users\nilfo\OneDrive\[OO]\[OO] GitHub\HackerRank\SASum\obj\Debug\net7.0\ref\SASum.dll

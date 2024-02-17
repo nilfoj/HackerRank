@@ -1,0 +1,14 @@
+C:\Users\nilfo\OneDrive\[OO]\[OO] GitHub\HackerRank\SMFirst\obj\Debug\net7.0\SMFirst.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nilfo\OneDrive\[OO]\[OO] GitHub\HackerRank\SMFirst\obj\Debug\net7.0\SMFirst.AssemblyInfoInputs.cache
+C:\Users\nilfo\OneDrive\[OO]\[OO] GitHub\HackerRank\SMFirst\obj\Debug\net7.0\SMFirst.AssemblyInfo.cs
+C:\Users\nilfo\OneDrive\[OO]\[OO] GitHub\HackerRank\SMFirst\obj\Debug\net7.0\SMFirst.csproj.CoreCompileInputs.cache
+C:\Users\nilfo\OneDrive\[OO]\[OO] GitHub\HackerRank\SMFirst\bin\Debug\net7.0\SMFirst.exe
+C:\Users\nilfo\OneDrive\[OO]\[OO] GitHub\HackerRank\SMFirst\bin\Debug\net7.0\SMFirst.deps.json
+C:\Users\nilfo\OneDrive\[OO]\[OO] GitHub\HackerRank\SMFirst\bin\Debug\net7.0\SMFirst.runtimeconfig.json
+C:\Users\nilfo\OneDrive\[OO]\[OO] GitHub\HackerRank\SMFirst\bin\Debug\net7.0\SMFirst.dll
+C:\Users\nilfo\OneDrive\[OO]\[OO] GitHub\HackerRank\SMFirst\bin\Debug\net7.0\SMFirst.pdb
+C:\Users\nilfo\OneDrive\[OO]\[OO] GitHub\HackerRank\SMFirst\obj\Debug\net7.0\SMFirst.dll
+C:\Users\nilfo\OneDrive\[OO]\[OO] GitHub\HackerRank\SMFirst\obj\Debug\net7.0\refint\SMFirst.dll
+C:\Users\nilfo\OneDrive\[OO]\[OO] GitHub\HackerRank\SMFirst\obj\Debug\net7.0\SMFirst.pdb
+C:\Users\nilfo\OneDrive\[OO]\[OO] GitHub\HackerRank\SMFirst\obj\Debug\net7.0\SMFirst.genruntimeconfig.cache
+C:\Users\nilfo\OneDrive\[OO]\[OO] GitHub\HackerRank\SMFirst\obj\Debug\net7.0\ref\SMFirst.dll
