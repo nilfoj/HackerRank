@@ -1,0 +1,14 @@
+C:\Users\nilfo\OneDrive\[OO]\[OO] GitHub\HackerRank\CTTriplets\bin\Debug\net7.0\CTTriplets.exe
+C:\Users\nilfo\OneDrive\[OO]\[OO] GitHub\HackerRank\CTTriplets\bin\Debug\net7.0\CTTriplets.deps.json
+C:\Users\nilfo\OneDrive\[OO]\[OO] GitHub\HackerRank\CTTriplets\bin\Debug\net7.0\CTTriplets.runtimeconfig.json
+C:\Users\nilfo\OneDrive\[OO]\[OO] GitHub\HackerRank\CTTriplets\bin\Debug\net7.0\CTTriplets.dll
+C:\Users\nilfo\OneDrive\[OO]\[OO] GitHub\HackerRank\CTTriplets\bin\Debug\net7.0\CTTriplets.pdb
+C:\Users\nilfo\OneDrive\[OO]\[OO] GitHub\HackerRank\CTTriplets\obj\Debug\net7.0\CTTriplets.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nilfo\OneDrive\[OO]\[OO] GitHub\HackerRank\CTTriplets\obj\Debug\net7.0\CTTriplets.AssemblyInfoInputs.cache
+C:\Users\nilfo\OneDrive\[OO]\[OO] GitHub\HackerRank\CTTriplets\obj\Debug\net7.0\CTTriplets.AssemblyInfo.cs
+C:\Users\nilfo\OneDrive\[OO]\[OO] GitHub\HackerRank\CTTriplets\obj\Debug\net7.0\CTTriplets.csproj.CoreCompileInputs.cache
+C:\Users\nilfo\OneDrive\[OO]\[OO] GitHub\HackerRank\CTTriplets\obj\Debug\net7.0\CTTriplets.dll
+C:\Users\nilfo\OneDrive\[OO]\[OO] GitHub\HackerRank\CTTriplets\obj\Debug\net7.0\refint\CTTriplets.dll
+C:\Users\nilfo\OneDrive\[OO]\[OO] GitHub\HackerRank\CTTriplets\obj\Debug\net7.0\CTTriplets.pdb
+C:\Users\nilfo\OneDrive\[OO]\[OO] GitHub\HackerRank\CTTriplets\obj\Debug\net7.0\CTTriplets.genruntimeconfig.cache
+C:\Users\nilfo\OneDrive\[OO]\[OO] GitHub\HackerRank\CTTriplets\obj\Debug\net7.0\ref\CTTriplets.dll
