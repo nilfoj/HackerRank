@@ -1,0 +1,14 @@
+C:\Users\nilfo\OneDrive\[OO]\[OO] GitHub\HackerRank\AVBSum\bin\Debug\net7.0\AVBSum.exe
+C:\Users\nilfo\OneDrive\[OO]\[OO] GitHub\HackerRank\AVBSum\bin\Debug\net7.0\AVBSum.deps.json
+C:\Users\nilfo\OneDrive\[OO]\[OO] GitHub\HackerRank\AVBSum\bin\Debug\net7.0\AVBSum.runtimeconfig.json
+C:\Users\nilfo\OneDrive\[OO]\[OO] GitHub\HackerRank\AVBSum\bin\Debug\net7.0\AVBSum.dll
+C:\Users\nilfo\OneDrive\[OO]\[OO] GitHub\HackerRank\AVBSum\bin\Debug\net7.0\AVBSum.pdb
+C:\Users\nilfo\OneDrive\[OO]\[OO] GitHub\HackerRank\AVBSum\obj\Debug\net7.0\AVBSum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nilfo\OneDrive\[OO]\[OO] GitHub\HackerRank\AVBSum\obj\Debug\net7.0\AVBSum.AssemblyInfoInputs.cache
+C:\Users\nilfo\OneDrive\[OO]\[OO] GitHub\HackerRank\AVBSum\obj\Debug\net7.0\AVBSum.AssemblyInfo.cs
+C:\Users\nilfo\OneDrive\[OO]\[OO] GitHub\HackerRank\AVBSum\obj\Debug\net7.0\AVBSum.csproj.CoreCompileInputs.cache
+C:\Users\nilfo\OneDrive\[OO]\[OO] GitHub\HackerRank\AVBSum\obj\Debug\net7.0\AVBSum.dll
+C:\Users\nilfo\OneDrive\[OO]\[OO] GitHub\HackerRank\AVBSum\obj\Debug\net7.0\refint\AVBSum.dll
+C:\Users\nilfo\OneDrive\[OO]\[OO] GitHub\HackerRank\AVBSum\obj\Debug\net7.0\AVBSum.pdb
+C:\Users\nilfo\OneDrive\[OO]\[OO] GitHub\HackerRank\AVBSum\obj\Debug\net7.0\AVBSum.genruntimeconfig.cache
+C:\Users\nilfo\OneDrive\[OO]\[OO] GitHub\HackerRank\AVBSum\obj\Debug\net7.0\ref\AVBSum.dll
