@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AVBSum")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d648fbeed7b244c35a428f0fd1980f4645f451b3")]
 [assembly: System.Reflection.AssemblyProductAttribute("AVBSum")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AVBSum")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
