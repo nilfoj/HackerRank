@@ -7,3 +7,6 @@ for (let i = 0; i < ar.length; i++){
 }
 
 return soma;
+
+
+const ars = [1, 2, 3, 4];
