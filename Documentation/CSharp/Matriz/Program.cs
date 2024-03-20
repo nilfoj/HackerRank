@@ -141,6 +141,9 @@ namespace Matriz
             Console.WriteLine(somaDiagonal1);
             Console.WriteLine();
 
+
+
+
         }
     }
 }
