@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\nilfo\\OneDrive\\[OO]\\[OO] GitHub\\HackerRank\\DDifference\\DDifference.csproj": {}
+    "C:\\Users\\nilfo\\OneDrive\\[OO]\\[OO] GitHub\\HackerRank\\CSharp\\DDifference\\DDifference.csproj": {}
   },
   "projects": {
-    "C:\\Users\\nilfo\\OneDrive\\[OO]\\[OO] GitHub\\HackerRank\\DDifference\\DDifference.csproj": {
+    "C:\\Users\\nilfo\\OneDrive\\[OO]\\[OO] GitHub\\HackerRank\\CSharp\\DDifference\\DDifference.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\nilfo\\OneDrive\\[OO]\\[OO] GitHub\\HackerRank\\DDifference\\DDifference.csproj",
+        "projectUniqueName": "C:\\Users\\nilfo\\OneDrive\\[OO]\\[OO] GitHub\\HackerRank\\CSharp\\DDifference\\DDifference.csproj",
         "projectName": "DDifference",
-        "projectPath": "C:\\Users\\nilfo\\OneDrive\\[OO]\\[OO] GitHub\\HackerRank\\DDifference\\DDifference.csproj",
+        "projectPath": "C:\\Users\\nilfo\\OneDrive\\[OO]\\[OO] GitHub\\HackerRank\\CSharp\\DDifference\\DDifference.csproj",
         "packagesPath": "C:\\Users\\nilfo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\nilfo\\OneDrive\\[OO]\\[OO] GitHub\\HackerRank\\DDifference\\obj\\",
+        "outputPath": "C:\\Users\\nilfo\\OneDrive\\[OO]\\[OO] GitHub\\HackerRank\\CSharp\\DDifference\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -22,7 +22,7 @@
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "net7.0"
+          "net8.0"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
@@ -30,8 +30,8 @@
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "net7.0": {
-            "targetAlias": "net7.0",
+          "net8.0": {
+            "targetAlias": "net8.0",
             "projectReferences": {}
           }
         },
@@ -39,11 +39,16 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
-        "net7.0": {
-          "targetAlias": "net7.0",
+        "net8.0": {
+          "targetAlias": "net8.0",
           "imports": [
             "net461",
             "net462",
@@ -60,7 +65,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

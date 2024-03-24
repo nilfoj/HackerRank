@@ -1,37 +1,46 @@
 ﻿using System;
 
+
 namespace HackerRank
 {
-    //    class Result
-    //    {
-    //        public static int diagonalDifference(List<List<int>> arr)
-    //        {
 
+    class Result
+    {
+        public static int diagonalDifference(List<List<int>> arr)
+        {
 
-    //        }
-    //    }
+            int somaDiagonal01 = 0;
+            int somaDiagonal02 = 0;
 
-    //    class Solution
-    //    {
-    //        public static void Main(string[] args)
-    //        {
+            int n = arr.Count;
 
-    //            int n  = Convert.ToInt32(Console.ReadLine().Trim());
+            for (int i = 0; i < n; i++)
+            {
+                somaDiagonal01 += arr[i][i];
+                somaDiagonal02 += arr[i][n - 1 -i];
+            }
 
-    //            List<List<int> arr = new List<List<int>>();
+            return Math.Abs(somaDiagonal01 - somaDiagonal02);
+        }
+    }
 
-    //            for (int i = 0; i < n; i++)
-    //            {
+    class Solution
+    {
+        public static void Main(string[] args)
+        {
 
-    //                arr.Add(Console.ReadLine().TrimEnd().Split(' ').ToList().Select(arrTemp => Convert.ToInt32(arrTemp)).ToList());
+            int n = Convert.ToInt32(Console.ReadLine().Trim());
 
-    //                int result = Result.diagonalDifference(arr);
+            List<List<int>> arr = new List<List<int>>();
 
-    //            }
+            for (int i = 0; i < n; i++)
+            {
+                arr.Add(Console.ReadLine().TrimEnd().Split(' ').ToList().Select(arrTemp =>
+                Convert.ToInt32(arrTemp)).ToList());
+            }
 
-    //        }
-    //    }
+            int result = Result.diagonalDifference(arr);
+         
+        }
+    }
 }
-
-
-
